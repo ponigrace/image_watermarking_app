@@ -1,0 +1,12 @@
+This is a text watermarking app for images.
+
+The text can be dragged within the boundaries of the image.
+You can change the font, font color, font size, text alignment, transparency, and angle of the text.
+
+Give it some time (maybe 1 to 2 minutes) to get the correct coordinates before saving the image.
+
+Checkout the watermarked images in the results folder.
+
+DISCLAIMER:
+The squirrel and the kitten pictures are not mine. All rights belong to their rightful owners.
+
